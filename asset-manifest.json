@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tesla-clone-app-deploy/static/css/main.be885379.css",
+    "main.js": "/tesla-clone-app-deploy/static/js/main.7431cb3e.js",
+    "index.html": "/tesla-clone-app-deploy/index.html",
+    "main.be885379.css.map": "/tesla-clone-app-deploy/static/css/main.be885379.css.map",
+    "main.7431cb3e.js.map": "/tesla-clone-app-deploy/static/js/main.7431cb3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be885379.css",
+    "static/js/main.7431cb3e.js"
+  ]
+}
